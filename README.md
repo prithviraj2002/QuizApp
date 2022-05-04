@@ -8,3 +8,7 @@ Includes a score tracker, where with each correct answer, the score meter progre
 Then comes a divider, followed by the question.
 The choices are presented in the form of a radio group button. Selecting a wrong or right answer is also highlighted.
 Followed by a next button to go to the next question.
+
+
+https://user-images.githubusercontent.com/82358330/166686601-d1efcfd3-ab26-4252-9928-486fe4c37de2.mp4
+
